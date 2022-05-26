@@ -16,6 +16,9 @@ Debug settings:
 In the cases of emergencies, users can unblock all blocked applications
 ![image](https://user-images.githubusercontent.com/106286861/170394294-b23e1c6b-7597-4281-8b0d-f5110e5eade0.png)
 
+# How to Run
+Download the folder called release and run the executable file. 
+
 # To-Do List:
   1) Create a block website dashboard
   2) Save info to database instead of a text file
