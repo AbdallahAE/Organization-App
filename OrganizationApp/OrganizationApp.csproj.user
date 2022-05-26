@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="blockedAppsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="emergencyForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="passwordForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="settingsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="storeForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="taskDashboardForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
